@@ -1,4 +1,4 @@
-# Hello World Moderno
+# Hello World Dinâmico
 
 Esta é uma aplicação web simples que exibe uma saudação em diferentes idiomas e permite personalizar a saudação com seu nome. A aplicação também oferece um modo noturno e salva as preferências do usuário usando `localStorage`.
 
